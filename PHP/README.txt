@@ -1,0 +1,1 @@
+Dit zijn snippets uit mijn eerste grote PHP project. Excuses voor het spaghetti-code gehalte.
